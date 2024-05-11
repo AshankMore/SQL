@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is a collection of my solutions to intermediate and advanced SQL problems from StrataScratch, Leetcode, and DataLemur. It's intended for anyone looking to see different approaches to complex SQL queries.
+This repository is a collection of my solutions to intermediate and advanced SQL problems from [StrataScratch](https://www.stratascratch.com), [Leetcode](https://leetcode.com), and [DataLemur](https://datalemur.com/questions). It's intended for anyone looking to see different approaches to complex SQL queries.
 
 ## Contents
 
