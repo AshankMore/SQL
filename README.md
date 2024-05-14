@@ -20,8 +20,8 @@ This repository is a collection of my solutions to intermediate and advanced SQL
 
 This repository is personal and reflects my approaches to these problems. However, suggestions or discussions on different solutions are welcome. Feel free to submit an issue to discuss improvements.
 
-## Completed Questions: `1`
-|  #  | Title | Difficulty | Solution |
+## Completed Questions: `2`
+| Platform  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
-|10042|[Top 3 Wineries In The World](https://platform.stratascratch.com/coding/10042-top-3-wineries-in-the-world?code_type=1)|Hard|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10042.sql)
-|10073|[Favorite Host Nationality](https://platform.stratascratch.com/coding/10073-favorite-host-nationality?python&utm_source=youtube&utm_medium=click&utm_campaign=YT+description+link)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10073.sql)
+|DataLemur|[Active User Retention (Facebook)](https://datalemur.com/questions/user-retention)|Medium|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Active%20User%20Retention%20%5BFacebook%20SQL%20Interview%20Question%5D.sql)
+|Leetcode 1098|[Unpopular Books](https://leetcode.com/problems/unpopular-books/description/)|Medium|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%201098.%20Unpopular%20Books.sql)
