@@ -23,6 +23,6 @@ This repository is personal and reflects my approaches to these problems. Howeve
 ## Completed Questions: `3`
 | Platform  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
-|Leetcode 185|[Department Top Three Salaries](185. Department Top Three Salaries)|Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%20185%20Department%20Top%20Three%20Salaries.sql)
+|Leetcode|[ 185 Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/)|Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%20185%20Department%20Top%20Three%20Salaries.sql)
 |DataLemur|[Active User Retention (Facebook)](https://datalemur.com/questions/user-retention)|Medium|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Active%20User%20Retention%20%5BFacebook%20SQL%20Interview%20Question%5D.sql)
-|Leetcode 1098|[Unpopular Books](https://leetcode.com/problems/unpopular-books/description/)|Medium|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%201098.%20Unpopular%20Books.sql)
+|Leetcode|[1098 Unpopular Books](https://leetcode.com/problems/unpopular-books/description/)|Medium|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%201098.%20Unpopular%20Books.sql)
