@@ -20,9 +20,10 @@ This repository is a collection of my solutions to intermediate and advanced SQL
 
 This repository is personal and reflects my approaches to these problems. However, suggestions or discussions on different solutions are welcome. Feel free to submit an issue to discuss improvements.
 
-## Completed Questions: `8`
+## Completed Questions: `9`
 | Platform  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|DataLemur|[Patient Support Analysis (UnitedHealth)](https://datalemur.com/questions/uncategorized-calls-percentage)|Medium|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Patient%20Support%20Analysis%20(Part%204)%20%5BUnitedHealth%20SQL%20Interview%20Question%5D%20.sql)
 |Leetcode|[185 Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/)|Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%20185%20Department%20Top%20Three%20Salaries.sql)
 |Leetcode|[262 Trips and Users](https://leetcode.com/problems/trips-and-users/description/)|Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%20262.%20Trips%20and%20Users.sql)
 |DataLemur|[Active User Retention (Facebook)](https://datalemur.com/questions/user-retention)|Medium|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Active%20User%20Retention%20%5BFacebook%20SQL%20Interview%20Question%5D.sql)
