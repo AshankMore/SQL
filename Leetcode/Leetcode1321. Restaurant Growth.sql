@@ -1,8 +1,14 @@
-SELECT visited_on, amount, ROUND(amount/7, 2) average_amount
-FROM (
-    SELECT DISTINCT visited_on, 
-    SUM(amount) OVER(ORDER BY visited_on RANGE BETWEEN INTERVAL 6 DAY   PRECEDING AND CURRENT ROW) amount, 
-    MIN(visited_on) OVER() 1st_date 
-    FROM Customer
-) t
-WHERE visited_on>= 1st_date+6;
+select T2.visited_on, T2.amount, T2.average_amount
+
+from
+
+(select visited_on, 
+SUM(amount) OVER (ORDER BY visited_on ROWS 6 PRECEDING) AS amount,
+round(avg(amount) OVER (ORDER BY visited_on ROWS 6 PRECEDING),2) AS average_amount,
+row_number() over (ORDER BY visited_on) as rn_num
+from
+(select visited_on, sum(amount) as amount
+from customer
+group by visited_on order by visited_on) as T1) as T2
+
+where T2.rn_num >= 7
