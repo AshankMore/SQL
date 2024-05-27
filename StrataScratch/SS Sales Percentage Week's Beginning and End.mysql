@@ -1,0 +1,17 @@
+with cte as (
+select 
+*, quantity * unitprice sales,
+week(str_to_date(invoicedate, '%d/%m/%Y %H:%i'), 1) weeknum, 
+date_format(str_to_date(invoicedate, '%d/%m/%Y %H:%i'), '%u') weeknum_string, 
+weekday(str_to_date(invoicedate, '%d/%m/%Y %H:%i')) weekday,
+dayname(str_to_date(invoicedate, '%d/%m/%Y %H:%i')) weekday_name,
+dayofweek(str_to_date(invoicedate, '%d/%m/%Y %H:%i')) weekday_num
+from early_sales
+)
+select 
+weeknum, 
+round(sum(case when weekday_name = 'Monday' then sales else 0 end) * 100 / sum(sales), 0) first_day_sales_pct, # monday
+round(sum(case when weekday_name = 'Sunday' then sales else 0 end) * 100 / sum(sales), 0) last_day_sales_pct # Sunday
+from cte
+group by 1
+order by 1;

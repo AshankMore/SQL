@@ -1,0 +1,13 @@
+WITH T1 AS 
+(SELECT 
+    p.*, TIMESTAMPDIFF(SECOND, u.session_starttime, u.session_endtime) AS SEC_DIFF,
+    (p.perc_viewed / 100) * TIMESTAMPDIFF(SECOND, u.session_starttime, u.session_endtime) AS tot_secs
+FROM 
+    post_views p 
+LEFT JOIN 
+    user_sessions u ON p.session_id = u.session_id
+)
+
+SELECT POST_ID, SUM(TOT_SECS) AS total_viewtime
+FROM T1 GROUP BY 1
+HAVING SUM(TOT_SECS) > 5
