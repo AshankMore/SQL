@@ -20,7 +20,7 @@ This repository is a collection of my solutions to intermediate and advanced SQL
 
 This repository is personal and reflects my approaches to these problems. However, suggestions or discussions on different solutions are welcome. Feel free to submit an issue to discuss improvements.
 
-## Completed Questions: `11`
+## Completed Questions: `12`
 | Platform  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |DataLemur|[Patient Support Analysis (UnitedHealth)](https://datalemur.com/questions/uncategorized-calls-percentage)|Medium|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Patient%20Support%20Analysis%20(Part%204)%20%5BUnitedHealth%20SQL%20Interview%20Question%5D%20.sql)
@@ -33,4 +33,8 @@ This repository is personal and reflects my approaches to these problems. Howeve
 |Leetcode|[1132 Reported Posts II](https://leetcode.com/problems/reported-posts-ii/description/)|Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%201132.%20Reported%20Posts%20II.sql)
 |Leetcode|[601 Human Traffic of Stadium.sql](https://leetcode.com/problems/human-traffic-of-stadium/description/)|Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%20601.%20Human%20Traffic%20of%20Stadium.sql)
 |DataLemur|[Consecutive Filing Years (Intuit)](https://datalemur.com/questions/consecutive-filing-years)|Hard|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Advertiser%20Status%20%5BFacebook%20SQL%20Interview%20Question%5D%20.sql)
-|Leetcode |[615. Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%20615.%20Average%20Salary-%20Departments%20VS%20Company.sql)
+|Leetcode |[615 Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%20615.%20Average%20Salary-%20Departments%20VS%20Company.sql)
+|Leetcode |	[	618. Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%20618.%20Students%20Report%20By%20Geography.sql)	
+|Leetcode |[618 Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%20618.%20Students%20Report%20By%20Geography.sql)
+|Leetcode |	[1127 User Purchase Platform](https://leetcode.com/problems/get-the-second-most-recent-activity/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%201127.%20User%20Purchase%20Platform.sql	)	
+|Leetcode |[1127 User Purchase Platform](https://leetcode.com/problems/get-the-second-most-recent-activity/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%201127.%20User%20Purchase%20Platform.sql)																				
