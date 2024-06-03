@@ -20,7 +20,7 @@ This repository is a collection of my solutions to intermediate and advanced SQL
 
 This repository is personal and reflects my approaches to these problems. However, suggestions or discussions on different solutions are welcome. Feel free to submit an issue to discuss improvements.
 
-## Completed Questions: `12`
+## Completed Questions: `13`
 | Platform  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |DataLemur|[Patient Support Analysis (UnitedHealth)](https://datalemur.com/questions/uncategorized-calls-percentage)|Medium|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Patient%20Support%20Analysis%20(Part%204)%20%5BUnitedHealth%20SQL%20Interview%20Question%5D%20.sql)
@@ -37,4 +37,5 @@ This repository is personal and reflects my approaches to these problems. Howeve
 |Leetcode |	[	618. Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%20618.%20Students%20Report%20By%20Geography.sql)	
 |Leetcode |[618 Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%20618.%20Students%20Report%20By%20Geography.sql)
 |Leetcode |	[1127 User Purchase Platform](https://leetcode.com/problems/get-the-second-most-recent-activity/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%201127.%20User%20Purchase%20Platform.sql	)	
-|Leetcode |[1127 User Purchase Platform](https://leetcode.com/problems/get-the-second-most-recent-activity/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%201127.%20User%20Purchase%20Platform.sql)																				
+|Leetcode |[1127 User Purchase Platform](https://leetcode.com/problems/get-the-second-most-recent-activity/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%201127.%20User%20Purchase%20Platform.sql)
+|Stratscratch|[Monthly Percentage Difference (Amazon)](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=1) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/StrataScratch/SS%20Monthly%20Percentage%20Difference.sql)
