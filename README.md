@@ -20,7 +20,7 @@ This repository is a collection of my solutions to intermediate and advanced SQL
 
 This repository is personal and reflects my approaches to these problems. However, suggestions or discussions on different solutions are welcome. Feel free to submit an issue to discuss improvements.
 
-## Completed Questions: `13`
+## Completed Questions: `14`
 | Platform  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |DataLemur|[Patient Support Analysis (UnitedHealth)](https://datalemur.com/questions/uncategorized-calls-percentage)|Medium|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Patient%20Support%20Analysis%20(Part%204)%20%5BUnitedHealth%20SQL%20Interview%20Question%5D%20.sql)
@@ -39,3 +39,4 @@ This repository is personal and reflects my approaches to these problems. Howeve
 |Leetcode |	[1127 User Purchase Platform](https://leetcode.com/problems/get-the-second-most-recent-activity/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%201127.%20User%20Purchase%20Platform.sql	)	
 |Leetcode |[1127 User Purchase Platform](https://leetcode.com/problems/get-the-second-most-recent-activity/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%201127.%20User%20Purchase%20Platform.sql)
 |Stratscratch|[Monthly Percentage Difference (Amazon)](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=1) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/StrataScratch/SS%20Monthly%20Percentage%20Difference.sql)
+|Leetcode|[1412 Find the Quiet Students in All Exams](https://leetcode.com/problems/find-the-quiet-students-in-all-exams/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%201412.%20Find%20the%20Quiet%20Students%20in%20All%20Exams.mysql)
