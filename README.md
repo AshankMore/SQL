@@ -20,7 +20,7 @@ This repository is a collection of my solutions to intermediate and advanced SQL
 
 This repository is personal and reflects my approaches to these problems. However, suggestions or discussions on different solutions are welcome. Feel free to submit an issue to discuss improvements.
 
-## Completed Questions: `17`
+## Completed Questions: `18`
 | Platform  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |DataLemur|[Patient Support Analysis (UnitedHealth)](https://datalemur.com/questions/uncategorized-calls-percentage)|Medium|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Patient%20Support%20Analysis%20(Part%204)%20%5BUnitedHealth%20SQL%20Interview%20Question%5D%20.sql)
@@ -43,3 +43,4 @@ This repository is personal and reflects my approaches to these problems. Howeve
 |Stratscratch|[Algorithm Performance (Meta)](https://platform.stratascratch.com/coding/10350-algorithm-performance?code_type=1) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/StrataScratch/SS%20Algorithm%20Performance%20(Meta).sql)
 |Stratscratch|[Employees With Same Birth Month (Block)](https://platform.stratascratch.com/coding/10355-employees-with-same-birth-month?code_type=3) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/StrataScratch/SS%20Employees%20With%20Same%20Birth%20Month%20.sql)
 |Stratscratch|[Sales Percentage Week's Beginning and End (Meta)](https://platform.stratascratch.com/coding/2165-sales-percentage-weeks-beginning-and-end?code_type=3) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/StrataScratch/SS%20Sales%20Percentage%20Week's%20Beginning%20and%20End.mysql)
+|Stratscratch|[Popular Posts (Google)](https://platform.stratascratch.com/coding/2073-popular-posts?code_type=3) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/StrataScratch/SS%20Popular%20Posts.mysql)
