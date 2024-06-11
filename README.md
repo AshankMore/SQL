@@ -20,7 +20,7 @@ This repository is a collection of my solutions to intermediate and advanced SQL
 
 This repository is personal and reflects my approaches to these problems. However, suggestions or discussions on different solutions are welcome. Feel free to submit an issue to discuss improvements.
 
-## Completed Questions: `19`
+## Completed Questions: `20`
 | Platform  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |DataLemur|[Patient Support Analysis (UnitedHealth)](https://datalemur.com/questions/uncategorized-calls-percentage)|Medium|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Patient%20Support%20Analysis%20(Part%204)%20%5BUnitedHealth%20SQL%20Interview%20Question%5D%20.sql)
@@ -45,3 +45,4 @@ This repository is personal and reflects my approaches to these problems. Howeve
 |Stratscratch|[Sales Percentage Week's Beginning and End (Meta)](https://platform.stratascratch.com/coding/2165-sales-percentage-weeks-beginning-and-end?code_type=3) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/StrataScratch/SS%20Sales%20Percentage%20Week's%20Beginning%20and%20End.mysql)
 |Stratscratch|[Popular Posts (Google)](https://platform.stratascratch.com/coding/2073-popular-posts?code_type=3) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/StrataScratch/SS%20Popular%20Posts.mysql)
 |Leetcode|[1369 Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/description/) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/Leetcode/Leetcode%201369.%20Get%20the%20Second%20Most%20Recent%20Activity.sql)
+|StrataScratch|[Days At Number One - Spotify](https://platform.stratascratch.com/coding/10173-days-at-number-one?code_type=3) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/StrataScratch/SS%20Days%20At%20Number%20One%20Spotify.txt)
