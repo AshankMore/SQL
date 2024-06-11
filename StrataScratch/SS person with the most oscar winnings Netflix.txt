@@ -1,0 +1,6 @@
+with tempwin  as
+(select nominee, count(case when winner is TRUE then 1 else null end) as wins from 
+oscar_nominees 
+group by 1 order by wins desc)
+select distinct top_genre from
+nominee_information where name in (select nominee from tempwin where wins = (select max(wins) from tempwin))
