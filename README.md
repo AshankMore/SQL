@@ -20,7 +20,7 @@ This repository is a collection of my solutions to intermediate and advanced SQL
 
 This repository is personal and reflects my approaches to these problems. However, suggestions or discussions on different solutions are welcome. Feel free to submit an issue to discuss improvements.
 
-## Completed Questions: `22`
+## Completed Questions: `25`
 | Platform  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |DataLemur|[Patient Support Analysis (UnitedHealth)](https://datalemur.com/questions/uncategorized-calls-percentage)|Medium|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Patient%20Support%20Analysis%20(Part%204)%20%5BUnitedHealth%20SQL%20Interview%20Question%5D%20.sql)
@@ -48,3 +48,6 @@ This repository is personal and reflects my approaches to these problems. Howeve
 |StrataScratch|[Days At Number One - Spotify](https://platform.stratascratch.com/coding/10173-days-at-number-one?code_type=3) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/StrataScratch/SS%20Days%20At%20Number%20One%20Spotify.txt)
 |StrataScratch|[Person with the most oscar winnings - Netflix](https://platform.stratascratch.com/coding/10171-find-the-genre-of-the-person-with-the-most-number-of-oscar-winnings?code_type=3) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/StrataScratch/SS%20person%20with%20the%20most%20oscar%20winnings%20Netflix.txt)
 |DataLemur|[Reactivated Users [Facebook]](https://datalemur.com/questions/reactivated-users) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Reactivated%20Users%20%5BFacebook%20SQL%20Interview%20Question%5D%20.sql)
+|DataLemur|[Y-on-Y Growth Rate [Wayfair]](https://datalemur.com/questions/yoy-growth-rate) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Y-on-Y%20Growth%20Rate%20%5BWayfair%20SQL%20Interview%20Question%5D%20.mysql)
+|DataLemur|[Same Week Purchases [Etsy]](https://datalemur.com/questions/same-week-purchases) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Same%20Week%20Purchases%20%5BEtsy%20SQL%20Interview%20Question%5D%20.sql)
+|DataLemur|[Senior Managers [Google]](https://datalemur.com/questions/senior-managers-reportees) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Senior%20Managers%20%5BGoogle%5D.sql)
