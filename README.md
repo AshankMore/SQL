@@ -20,7 +20,7 @@ This repository is a collection of my solutions to intermediate and advanced SQL
 
 This repository is personal and reflects my approaches to these problems. However, suggestions or discussions on different solutions are welcome. Feel free to submit an issue to discuss improvements.
 
-## Completed Questions: `25`
+## Completed Questions: `27`
 | Platform  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |DataLemur|[Patient Support Analysis (UnitedHealth)](https://datalemur.com/questions/uncategorized-calls-percentage)|Medium|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Patient%20Support%20Analysis%20(Part%204)%20%5BUnitedHealth%20SQL%20Interview%20Question%5D%20.sql)
@@ -51,3 +51,5 @@ This repository is personal and reflects my approaches to these problems. Howeve
 |DataLemur|[Y-on-Y Growth Rate [Wayfair]](https://datalemur.com/questions/yoy-growth-rate) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Y-on-Y%20Growth%20Rate%20%5BWayfair%20SQL%20Interview%20Question%5D%20.mysql)
 |DataLemur|[Same Week Purchases [Etsy]](https://datalemur.com/questions/same-week-purchases) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Same%20Week%20Purchases%20%5BEtsy%20SQL%20Interview%20Question%5D%20.sql)
 |DataLemur|[Senior Managers [Google]](https://datalemur.com/questions/senior-managers-reportees) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Senior%20Managers%20%5BGoogle%5D.sql)
+|DataLemur|[Uniquely Staffed Consultants [Accenture]](https://datalemur.com/questions/uniquely-staffed-consultants) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Uniquely%20Staffed%20Consultants%20%5BAccenture%5D.sql)
+|DataLemur|[Server Utilization Time [Amazon]](https://datalemur.com/questions/total-utilization-time) |Hard|[Link](https://github.com/AshankMore/SQL/blob/main/DataLemur/datalemur%20Server%20Utilization%20Time%20%5BAmazon%20SQL%20Interview%20Question%5D%20.sql)
