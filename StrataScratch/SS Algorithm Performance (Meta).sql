@@ -10,4 +10,4 @@ case when clicked = 0 then 1
      end as rating
 from fb_search_events
 ) p
-group by 1
+group by 1;
