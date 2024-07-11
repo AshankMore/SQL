@@ -8,4 +8,4 @@ WITH t1 as (
 
 SELECT  date_month,
         round((revenue - prev_revenue) / prev_revenue * 100, 2) as revenue_diff_pct
-FROM t1
+FROM t1;
