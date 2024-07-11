@@ -13,4 +13,4 @@ sum(case when birth_month = 11 then 1 else 0 end ) as month_11,
 sum(case when birth_month = 12 then 1 else 0 end ) as month_12
 
 from employee_list
-group by 1
+group by 1;
