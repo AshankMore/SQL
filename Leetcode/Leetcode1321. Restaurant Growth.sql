@@ -11,4 +11,4 @@ from
 from customer
 group by visited_on order by visited_on) as T1) as T2
 
-where T2.rn_num >= 7
+where T2.rn_num >= 7;
