@@ -3,4 +3,4 @@ with tempwin  as
 oscar_nominees 
 group by 1 order by wins desc)
 select distinct top_genre from
-nominee_information where name in (select nominee from tempwin where wins = (select max(wins) from tempwin))
+nominee_information where name in (select nominee from tempwin where wins = (select max(wins) from tempwin));
