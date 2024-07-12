@@ -11,4 +11,4 @@ row_number() over (partition by continent order by name) as rn
 from
 Student
 )i
-group by rn
+group by rn;
