@@ -11,4 +11,4 @@ LEFT JOIN
 (SELECT *,rank() OVER(PARTITION BY server_id ORDER BY status_time) AS prnk 
     FROM server_utilization WHERE session_status = 'stop') p
  ON s.server_id = p.server_id AND s.srnk = p.prnk
- ) Z
+ ) Z;
