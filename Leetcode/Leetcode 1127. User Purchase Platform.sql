@@ -28,7 +28,7 @@ LEFT JOIN (
     ) o
 ) t
 ON p.platform=t.platform AND p.spend_date=t.spend_date
-GROUP BY spend_date, platform
+GROUP BY spend_date, platform;
 
 
 
