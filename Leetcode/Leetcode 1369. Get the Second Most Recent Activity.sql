@@ -7,4 +7,4 @@ select
     row_number() over (partition by username order by startDate desc) as ranks,
     count(username) over (partition by username) as counts
 from UserActivity) as t
-where counts = 1 or ranks = 2
+where counts = 1 or ranks = 2;
