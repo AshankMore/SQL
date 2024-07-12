@@ -24,4 +24,4 @@ T2 AS
   FROM T2 
   WHERE YEAR = 2022
   AND (ACTIVE_FLAG = 'Y' AND previous_month_active_flag IS NULL)
-  GROUP BY 1
+  GROUP BY 1;
