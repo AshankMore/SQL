@@ -1,9 +1,9 @@
 SELECT TRACKNAME, COUNT(*) AS n_days_on_n1_position
 FROM
 (
-select POSITION, TRACKNAME, date FROM spotify_daily_rankings_2017_us WHERE POSITION = 1
-INTERSECT
-select POSITION, TRACKNAME, date FROM spotify_worldwide_daily_song_ranking WHERE POSITION = 1 AND REGION = 'us'
+    select POSITION, TRACKNAME, date FROM spotify_daily_rankings_2017_us WHERE POSITION = 1
+    INTERSECT
+    select POSITION, TRACKNAME, date FROM spotify_worldwide_daily_song_ranking WHERE POSITION = 1 AND REGION = 'us'
 ) p
 group by 1
 order by 1
