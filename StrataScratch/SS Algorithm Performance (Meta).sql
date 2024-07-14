@@ -1,4 +1,4 @@
-SELECT SEARCH_ID, MAX(rating)
+SELECT SEARCH_ID, MAX(rating) as MAX_RATING
 from
 (
 SELECT
