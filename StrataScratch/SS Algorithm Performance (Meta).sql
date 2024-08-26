@@ -1,5 +1,5 @@
 SELECT SEARCH_ID, MAX(rating) as MAX_RATING
-from
+FROM
 (
 SELECT
 search_id, 
